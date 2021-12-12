@@ -1,9 +1,17 @@
+html{
+height:100%;	
+}
+
+*{
+margin:0;
+padding:0;
+}
+
+
 
 .color{
-
 text-align:center;
-background-color:yellow;
-	
+background-color:yellow;	
 }
 
 
